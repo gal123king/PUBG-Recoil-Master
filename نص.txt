@@ -1,0 +1,18 @@
+Phonetics: is the study of speech sounds. It also studies the production and the perception of sounds.
+ 
+•Phonology: is the study of the distribution of sounds in a language and the interactions between those different sounds.
+
+
+•A Phoneme: is the smallest unit of sound which is significant in a language and could change the meaning of words.
+
+•For example, the phoneme /l/ in a word like milk.
+
+Allophones: the different realizations or pronunciations of a certain phoneme.
+•When we are talking about such realizations, the phoneme is in slashes /…/ and the allophones are in square brackets […]
+has the allophones [p] and [ph].
+
+•A Minimal Pair is a pair of words that vary by only a single sound.
+
+•/d/ and /z/ in wide and wise.
+
+ 
